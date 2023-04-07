@@ -1,0 +1,55 @@
+{
+    "token": "MTA2NjczOTc5MjMxNTk0NTAzMQ.GqmMf7.UicbblkGzt7Tje0I8YJtvcdVwSRHbszV6dnQ8E",
+    "prefix": "$",
+    "status": "Dev by William",
+    "suburl": {
+        "https://discord.com/api/webhooks/1093914290966233219/ptI8xuaGYQ7B0FL1M15IGqHFhU0sTQlhkjzvoQf2YLrd5LVDmN_ESzxcVKtxTM0NkYi5": {
+            "url": "https://www.vinted.fr/catalog?brand_id[]=53&brand_id[]=319730&brand_id[]=872289&brand_id[]=362&brand_id[]=7432262&brand_id[]=5715441&brand_id[]=9743508&catalog[]=2551",
+            "salon": "links"
+        },
+        "https://discord.com/api/webhooks/1093914525721448479/QFDViWmA51aSa_4Y2wYkxv_G-ggSQptYoh2_EPoj7JlIEwnFWA3vc_yp7UmX-Ak57ZAr": {
+            "url": "https://www.vinted.fr/catalog?brand_id[]=53&brand_id[]=14&brand_id[]=10&brand_id[]=88&brand_id[]=94&brand_id[]=255&brand_id[]=304&brand_id[]=5715441&brand_id[]=872289&brand_id[]=362&brand_id[]=7397734&brand_id[]=7145333&brand_id[]=764525&brand_id[]=2319&catalog[]=260",
+            "salon": "links"
+        },
+        "https://discord.com/api/webhooks/1093914761483276309/7pG7q8ASs1bU9ZLdTrE9hlQTREDsmBsL90fZ3_8EIeVZIEhQYBNS6XLdRp3YmTXznmWR": {
+            "url": "https://www.vinted.fr/catalog?brand_id[]=53&brand_id[]=10&brand_id[]=88&brand_id[]=255&brand_id[]=304&brand_id[]=362&brand_id[]=872289&brand_id[]=5715441&brand_id[]=7432262&brand_id[]=7432266&brand_id[]=9743508&brand_id[]=2319&brand_id[]=7145333&brand_id[]=10185140&brand_id[]=6224502&catalog[]=2536",
+            "salon": "links"
+        },
+        "https://discord.com/api/webhooks/1093914913732317236/rl4KRbzQf0JJ3Vdg_MjHY7d4Acxh9KCjqprrvY2Owv3l7kEd9Nqp2cj69tTroG5kE1Dg": {
+            "url": "https://www.vinted.fr/catalog?brand_id[]=53&brand_id[]=14&brand_id[]=10&brand_id[]=88&brand_id[]=94&brand_id[]=255&brand_id[]=304&brand_id[]=5715441&brand_id[]=872289&brand_id[]=362&brand_id[]=7397734&brand_id[]=7145333&brand_id[]=764525&brand_id[]=2319&brand_id[]=585393&catalog[]=260",
+            "salon": "links"
+        },
+        "https://discord.com/api/webhooks/1093914975216599042/1c7i3TvDIxYPUtrmEMzHDnEkMGo9KjWqUmVRtNA0EXuKtEuywyy03ECktLcgadQbrvPh": {
+            "url": "https://www.vinted.fr/catalog?brand_id[]=53&brand_id[]=10&brand_id[]=88&brand_id[]=255&brand_id[]=304&brand_id[]=362&brand_id[]=872289&brand_id[]=5715441&brand_id[]=7432262&brand_id[]=7432266&brand_id[]=9743508&brand_id[]=2319&brand_id[]=7145333&brand_id[]=10185140&brand_id[]=6224502&brand_id[]=6539&brand_id[]=5093921&catalog[]=2536",
+            "salon": "links"
+        },
+        "https://discord.com/api/webhooks/1093915197971906621/PpskSU_mkcwCXePDmRLKOGaO0RLM-vxIhhdNVOyiDosK9FJ3NxsiM27yVTyBg1Dt-s7X": {
+            "url": "https://www.vinted.fr/catalog?brand_id[]=53&brand_id[]=14&brand_id[]=88&brand_id[]=94&brand_id[]=3036449&brand_id[]=2319&brand_id[]=362&brand_id[]=872289&brand_id[]=7432262&brand_id[]=6478418&brand_id[]=5715441&brand_id[]=9743508&brand_id[]=7432266&brand_id[]=1304410&brand_id[]=7489656&brand_id[]=7397734&catalog[]=267",
+            "salon": "links"
+        },
+        "https://discord.com/api/webhooks/1093915488431657071/nioXiA0Cp6XCNCFz--9Qduh68Mrq6hpo00Mu8FRRViAf-MQSnjwuh6VCSCUvZcYZ756i": {
+            "url": "https://www.vinted.fr/catalog?brand_id[]=53&brand_id[]=362&brand_id[]=2319&brand_id[]=14969&brand_id[]=14&catalog[]=76",
+            "salon": "links"
+        },
+        "https://discord.com/api/webhooks/1093915791310729267/7e2rYa0Jn5G5guvsPM8rkbzHLzH1enWXdtZT-ysT1wlwZGW6NRO4T1WBiACRqXDVVQHe": {
+            "url": "https://www.vinted.fr/catalog?brand_id[]=53&brand_id[]=14&brand_id[]=94&brand_id[]=64626&brand_id[]=2319&catalog[]=2551",
+            "salon": "links"
+        },
+        "https://discord.com/api/webhooks/1093915919799042129/nRwJzXCp7V3QGpwIErSc2SKg6ReTxqsy_Zjr280LaP6luq01UM4Wv4YZFDkjMT1nk_AO": {
+            "url": "https://www.vinted.fr/catalog?brand_id[]=53&brand_id[]=94&brand_id[]=56974&catalog[]=30",
+            "salon": "links"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
